@@ -1,0 +1,6 @@
+#ignoring the convolutional networks dataset
+/Volume 1 - Supervised Deep Learning/Part 2 - Convolutional Neural Networks (CNN)/Section 8 - Building a CNN/dataset
+/Volume 2 - Unsupervised Deep Learning/Part 5 - Boltzmann Machines (BM)/Section 20 - Building a RBM/ml-1m
+/Volume 2 - Unsupervised Deep Learning/Part 5 - Boltzmann Machines (BM)/Section 20 - Building a RBM/ml-100k
+/Volume 2 - Unsupervised Deep Learning/Part 6 - AutoEncoders (AE)/Section 23 - Building an AutoEncoder/ml-1m
+/Volume 2 - Unsupervised Deep Learning/Part 6 - AutoEncoders (AE)/Section 23 - Building an AutoEncoder/ml-100k
